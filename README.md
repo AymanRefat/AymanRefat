@@ -28,3 +28,5 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanRefat)](https://github.com/AymanRefat/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanRefat&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64bd9f628b7b09327380a8c4?variant=dark&roadmaps=python%2Ccpp%2Ccomputer-science" alt="roadmap.sh"/></a>
