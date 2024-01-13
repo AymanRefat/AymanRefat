@@ -8,6 +8,7 @@
 [![LeetCode user aymanrefat](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faymanrefat&logo=leetcode&logoColor=yellow)](https://leetcode.com/aymanrefat/)
 [![LeetCode user aymanrefat](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faymanrefat&logo=leetcode&logoColor=yellow)](https://leetcode.com/aymanrefat/)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/aymanrefat.svg)](https://codeforces.com/profile/aymanrefat)
+[![Badge](https://cp-logo.vercel.app/codechef/aymanrefat?logo=true)](https://www.codechef.com/users/aymanrefat)
 <br><br>
 
 **📫 How to reach me**
