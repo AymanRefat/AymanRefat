@@ -5,8 +5,8 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=AymanRefat" alt="123Usef" /> </span>
 [![wakatime](https://wakatime.com/badge/user/cff1714d-0aab-4e97-b4d8-75fdb91d718e.svg)](https://wakatime.com/@cff1714d-0aab-4e97-b4d8-75fdb91d718e)
 
-[![LeetCode user aymanrefat](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faymanrefat&logo=leetcode&logoColor=yellow)](https://leetcode.com/aymanrefat/)
-[![LeetCode user aymanrefat](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Faymanrefat&logo=leetcode&logoColor=yellow)](https://leetcode.com/aymanrefat/)
+**CP Statistics**
+
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/aymanrefat.svg)](https://codeforces.com/profile/aymanrefat)
 [![Badge](https://cp-logo.vercel.app/codechef/aymanrefat?logo=true)](https://www.codechef.com/users/aymanrefat)
 <br><br>
